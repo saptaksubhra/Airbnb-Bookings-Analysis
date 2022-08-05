@@ -27,9 +27,11 @@ Architecture:
 
 Technologies:
 🛠️ Tools Used
-Jupyter Notebook is used as IDE.
+
+Colab Notebook is used as IDE.
+
 Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
-Exploratory data analysis is automated by dataprep.
-For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
-WordCloud is used to representing the text data.
+
+For Data visualization of the plots, Matplotlib, Seaborn are used.
+
 GitHub is used as version control system
