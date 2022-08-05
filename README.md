@@ -11,3 +11,4 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 
 
 
+![image](https://user-images.githubusercontent.com/95517916/183069256-a53544eb-33b1-425a-85e5-1cbfeb18c2fa.png)
