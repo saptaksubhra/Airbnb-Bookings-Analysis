@@ -29,9 +29,9 @@ Technologies:
 
 🛠️ Tools Used :
 
-* Colab Notebook is used as IDE.
+* Colab Notebook is used as IDE ( Integrated Development Environment).
 
-* Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
+* Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical Operations respectively.
 
 * For Data visualization of the plots, Matplotlib, Seaborn are used.
 
