@@ -27,12 +27,12 @@ Architecture:
 
 Technologies:
 
-🛠️ Tools Used
+🛠️ Tools Used :
 
-Colab Notebook is used as IDE.
+* Colab Notebook is used as IDE.
 
-Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
+* Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 
-For Data visualization of the plots, Matplotlib, Seaborn are used.
+* For Data visualization of the plots, Matplotlib, Seaborn are used.
 
-GitHub is used as version control system
+* GitHub is used as version control system.
