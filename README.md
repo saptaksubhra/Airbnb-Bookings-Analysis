@@ -3,7 +3,7 @@ Analyzing the data of Airbnb booking
 
 ![image](https://user-images.githubusercontent.com/95517916/183069256-a53544eb-33b1-425a-85e5-1cbfeb18c2fa.png)
 
-Summary of this Project
+Summary of this Project :
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
 
