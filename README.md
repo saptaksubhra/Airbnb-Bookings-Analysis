@@ -26,6 +26,7 @@ Architecture:
 
 
 Technologies:
+
 🛠️ Tools Used
 
 Colab Notebook is used as IDE.
