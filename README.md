@@ -23,3 +23,13 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 
 Architecture:
 ![image](https://user-images.githubusercontent.com/95517916/183069775-8deb75fb-4040-4823-b0af-ae149d556c1b.png)
+
+
+Technologies:
+🛠️ Tools Used
+Jupyter Notebook is used as IDE.
+Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
+Exploratory data analysis is automated by dataprep.
+For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
+WordCloud is used to representing the text data.
+GitHub is used as version control system
